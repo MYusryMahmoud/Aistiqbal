@@ -1,2 +1,2 @@
 # Aistiqbal
-Aistiqbal is a mern stack application.
+Aistiqbal is a mern stack app for managing consulting civil engineering office works.
